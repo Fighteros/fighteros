@@ -123,7 +123,7 @@ Joined Github 3 years ago.
 </details>
 
 <!-- ![gif from fighteros.me](https://giphy.com/static/img/zoomies.gif?raw=true) -->
-<img height="180em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
+<img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
 
 #
 
