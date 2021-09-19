@@ -1,5 +1,5 @@
 ## Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
-<div style="border-raduis: 5px">[![Facebook Badge](https://img.shields.io/badge/Facbook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)</div>
+[![Facebook Badge](https://img.shields.io/badge/Facbook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white)](https://fighteros.me/)
