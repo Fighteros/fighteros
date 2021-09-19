@@ -25,7 +25,7 @@ Joined Github 3 years ago.
 - 💻 &nbsp; I love to explore new tech and building cool stuff with it.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to watch Series and play Games
+- ⚡ &nbsp; Fun fact: I love to watch series and play games
 
 ### Languages and Tools:
 
