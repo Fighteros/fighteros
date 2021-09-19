@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
 [![Facebook Badge](https://img.shields.io/badge/Facbook-004daa?style=?style=social&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-004daa?style=?style=social&logo=SingleStore&logoColor=white)](https://fighteros.me/)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc)
 
