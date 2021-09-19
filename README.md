@@ -1,6 +1,8 @@
 ## Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
+[![Facebook Badge](https://img.shields.io/badge/Facbook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white)](https://fighteros.me/)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc)
 
 I'm a final year student pursuing Bachelors's in Computer Sceince & Mathematics 🎓, from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
@@ -25,10 +27,20 @@ Joined Github 3 years ago.
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/database/database.png" alt="database"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="angular"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
@@ -48,66 +60,6 @@ Joined Github 3 years ago.
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&hide_border=true" />
 </details>
 
-<!-- <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/world-countries-capitals"><b>🗺 World countries capitals (WCC)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/world-countries-capitals?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/world-countries-capitals?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/world-countries-capitals?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/react-thumbnail-player"><b>🌇 React thumbnail player</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/react-thumbnail-player?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/react-thumbnail-player?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/react-thumbnail-player?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/react-thumbnail-player?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/react-thumbnail-player?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/react-native-expo-starterkit"><b>📲⚛️ React Native UI Kitten Starter Kit (Expo)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/react-native-expo-starterkit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/react-native-expo-starterkit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/react-native-expo-starterkit?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/react-native-expo-starterkit?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/react-native-expo-starterkit?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/nextjs-chakra-ui-ts-starter-kit"><b>☸️ NextJS + Chakra UI starter Kit (TS)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/bhatvikrant"><b>🤓 bhatvikrant</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/bhatvikrant?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/bhatvikrant?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/bhatvikrant?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/bhatvikrant?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details> -->
  
 <details>	
   <br />
