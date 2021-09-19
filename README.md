@@ -8,6 +8,8 @@
 I'm a final year student pursuing Bachelors's in Computer Sceince & Mathematics 🎓, from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
 Joined Github 3 years ago.
 
+<img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Flutter, django
@@ -75,7 +77,7 @@ Joined Github 3 years ago.
 </details>
 
 <!-- ![gif from fighteros.me](https://giphy.com/static/img/zoomies.gif?raw=true) -->
-<img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
+<!-- <img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" /> -->
 
 #
 
