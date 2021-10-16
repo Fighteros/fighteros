@@ -12,7 +12,7 @@ Joined Github 3 years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Flutter, django
+- 🛠 &nbsp; I’m currently working with React, Angular, Flutter and django
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fighteros).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/fighteros/fighteros/issues/1)! I am happy to help.
