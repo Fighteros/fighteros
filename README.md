@@ -3,7 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF9800?style=?style=social&logo=SingleStore&logoColor=white)](https://fighteros.tech/)
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc)
+<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc) -->
+### Glad to see you here! &nbsp; ![](<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc) -->
+)
+
 
 I'm a final year student pursuing Bachelors's in Computer Sceince & Mathematics 🎓, from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
 Joined Github 3 years ago.
