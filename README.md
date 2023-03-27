@@ -7,6 +7,9 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=fighteros&style=flat-square&color=0088cc)
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/433da7bd8f1f4eddaf339aeb30989e18)](https://app.codacy.com/manual/fighteros/oop?utm_source=github.com&utm_medium=referral&utm_content=fighteros/oop&utm_campaign=Badge_Grade_Dashboard)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/fighteros/oop.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kovinevmv/getcontact/context:python)
+
 
 I'm a final year student pursuing Bachelors's in Computer Sceince & Mathematics 🎓, from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
 Joined Github 3 years ago.
