@@ -88,7 +88,7 @@ Joined Github 3 years ago.
 #
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fighteros" alt="fighteros" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fighteros&theme=gruvbox" alt="fighteros" /></a> </p>
 
 ### Show some ❤️ by starring some of the repositories!
 
