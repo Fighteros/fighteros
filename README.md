@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
+# Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
 [![Facebook Badge](https://img.shields.io/badge/Facbook-004daa?style=?style=social&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
@@ -88,7 +88,7 @@ Joined Github 3 years ago.
 #
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fighteros&theme=gruvbox" alt="fighteros" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fighteros&theme=gruvbox" alt="fighteros" /></a> </p>
 
 ### Show some ❤️ by starring some of the repositories!
 
