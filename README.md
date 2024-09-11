@@ -11,15 +11,14 @@
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/fighteros/oop.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kovinevmv/getcontact/context:python) -->
 
 
-I'm a final year student pursuing Bachelors's in Computer Sceince & Mathematics 🎓, from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
-Joined Github 3 years ago.
+I'm a BackEnd Developer from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 <img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, Angular, Flutter and django
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Node.JS & Express and mongodb
+- 🚀 &nbsp; I’m currently learning new BackEnd technologies.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fighteros).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/fighteros/fighteros/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
@@ -74,7 +73,6 @@ Joined Github 3 years ago.
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Linux & Windows</li>
-	    <li><b>Laptop: </b> Dell Latitude E7450</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> bash, Powershell, Cmder | Console Emulator</li>
 	    <li><b>Code Editor:</b> VSCode & Pycharm, intellij idea, Sublime, Atom, PhpStrom, NetBeans and much more .</li>
