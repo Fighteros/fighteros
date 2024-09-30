@@ -1,8 +1,8 @@
 # Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
 [![Facebook Badge](https://img.shields.io/badge/Facbook-004daa?style=?style=social&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/302_mvd)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF9800?style=?style=social&logo=SingleStore&logoColor=white)](https://fighteros.tech/)
+[![X Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/302_mvd)
+<!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF9800?style=?style=social&logo=SingleStore&logoColor=white)](https://fighteros.tech/) -->
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc) -->
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=fighteros&style=flat-square&color=0088cc)
 
@@ -14,6 +14,29 @@
 I'm a BackEnd Developer from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 <img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
+
+# Frameworks and Libraries
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<br/><br/>
+
+<br/>
+
+# Programming Languages 
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<br/><br/>
+
+<br/>
+
+# 💾 Databases and ORM
+<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/><br/>
+
+<br/>
 
 ### Talking about Personal Stuffs:
 
