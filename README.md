@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a **Backend Developer** with a solid foundation in **Mathematics** and **Computer Science**. I enjoy building efficient and scalable applications, tackling complex problems, and learning new technologies. Let's create something amazing together!
 
-![Coding GIF](https://github.com/fighteros/fighteros/blob/master/giphy.gif)
+![Coding GIF](https://github.com/Fighteros/fighteros/blob/newreadme/giphy.gif?raw=true)
 
 ### Glad to see you here
 
