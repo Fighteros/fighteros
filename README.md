@@ -1,117 +1,73 @@
-# Hey 👋, I'm [Ahmed Abd ElGhany!](https://twitter.com/302_mvd) and you've reached my Dev space on the Web
-[![Facebook Badge](https://img.shields.io/badge/Facbook-004daa?style=?style=social&logo=facebook&logoColor=white)](https://www.facebook.com/realAhmedAbdElGhany)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realAhmedAbdElGhany)
-[![X Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/302_mvd)
-<!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF9800?style=?style=social&logo=SingleStore&logoColor=white)](https://fighteros.tech/) -->
-<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fighteros&style=flat-square&color=0088cc) -->
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=fighteros&style=flat-square&color=0088cc)
+# Hi there 👋, I'm [Ahmed Mohameden Abd ElGhany Abd ElMaksoud](mailto:am5419@fayoum.edu.eg)
 
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/realahmedabdelghany)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realahmedabdelghany/)
 
-<!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/433da7bd8f1f4eddaf339aeb30989e18)](https://app.codacy.com/manual/fighteros/oop?utm_source=github.com&utm_medium=referral&utm_content=fighteros/oop&utm_campaign=Badge_Grade_Dashboard)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/fighteros/oop.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kovinevmv/getcontact/context:python) -->
+Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a **Backend Developer** with a solid foundation in **Mathematics** and **Computer Science**. I enjoy building efficient and scalable applications, tackling complex problems, and learning new technologies. Let's create something amazing together!
 
+![Coding GIF](https://github.com/fighteros/fighteros/blob/master/giphy.gif)
 
-I'm a BackEnd Developer from Egypt, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+### Glad to see you here
 
-<img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" />
+![visits](https://komarev.com/ghpvc/?username=Fighteros&style=for-the-badge&logo&color=blue)
 
-# Frameworks and Libraries
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+- 🌱 I’m currently enhancing my skills in **JavaScript**, **Node.js**, and **RESTful APIs**.
+- 👯 I’m looking to collaborate on exciting backend and full-stack projects.
+- 💬 Ask me about **REST APIs**, **Node.js**, **MongoDB**, **Express.js**, **Data Structures**, **Algorithms**.
+- 📫 How to reach me: [Email Me](mailto:am5419@fayoum.edu.eg)
+- ⚡ Fun fact: I'm a competitive learner, winning top student competitions multiple times.
+- 📝 Checkout my [Resume](https://github.com/fighteros/fighteros/blob/master/cv.pdf)
+
+## 💼 Professional Experience
+
+- **JavaScript Developer** at [Bellman]() (Remote)
+- Built and maintained robust, scalable backend solutions for a variety of applications.
+- Integrated APIs and handled database management.
+
+---
+
+### 🛠 Tech Stack:
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=303030)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=4A5F5A)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-C21322?style=for-the-badge&logo=Angular&logoColor=white)
+
+### <i class="fas fa-code"></i> Programming Languages:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=yellow)
+![JAVA](https://img.shields.io/badge/-JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=yellow)
+![HTML](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### <i class="fas fa-tools"></i> Tools & Technologies:
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br/><br/>
 
+# My GitHub Profile
+
+1.🔥 Github Streaks
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark" />
+
+2.📅 Github stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&show_icons=true&hide_title=true&theme=onedark" />
+
+3.🏆 Github trophy
+
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" />
 <br/>
 
-# Programming Languages 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/C Langauge-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<br/><br/>
-
-<br/>
-
-# 💾 Databases and ORM
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br/><br/>
-
-<br/>
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Node.JS & Express and mongodb
-- 🚀 &nbsp; I’m currently learning new BackEnd technologies.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fighteros).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/fighteros/fighteros/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: am5419@fayoum.edu.eg.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/fighteros/fighteros/blob/master/cv.pdf).
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love to explore new tech and building cool stuff with it.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to watch series and play games
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/database/database.png" alt="database"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="angular"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fighteros&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&hide_border=true" />
-</details>
-
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Linux & Windows</li>
-  	    <li><b>Browser: </b> Chrome Web Browser</li>
-	    <li><b>Terminal: </b> bash, Powershell, Cmder | Console Emulator</li>
-	    <li><b>Code Editor:</b> VSCode & Pycharm, intellij idea, Sublime, Atom, PhpStrom, NetBeans and much more .</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
-	</ul>	
-</details>
-
-<!-- ![gif from fighteros.me](https://giphy.com/static/img/zoomies.gif?raw=true) -->
-<!-- <img height="380em" src="https://giphy.com/static/img/zoomies.gif?raw=true" /> -->
-
-#
+---
 
 <div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fighteros&theme=gruvbox" alt="fighteros" /></a> </p>
-
-### Show some ❤️ by starring some of the repositories!
-
+Let's connect ❤️ and collaborate on exciting projects! 🏆
 </div>
