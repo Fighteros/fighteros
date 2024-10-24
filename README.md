@@ -26,7 +26,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 - 💬 Ask me about **REST APIs**, **Node.js**, **MongoDB**, **Express.js**, **Data Structures**, **Algorithms**.
 - 📫 How to reach me: [am5419@fayoum.edu.eg](mailto:am5419@fayoum.edu.eg)
 - ⚡ Fun fact: I'm a competitive learner, winning top student competitions multiple times.
-- 📝 Checkout my [CV](https://github.com/fighteros/fighteros/blob/master/cv.pdf)
+- 📝 Checkout my [CV](https://drive.google.com/file/d/18H5NDduJpPB7CFijgMMVkKDwk6e2ixQc/view?usp=drive_link)
 
 ---
 
@@ -82,9 +82,12 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 1. Github Streaks <img  src="imgs/fire.png"  width="25" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark"  width="330"  />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&theme=onedark" width="300" >
+<div style="text-align: center">
 
+<img style="display:inline-block" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark"  width="330"  />
+<img style="display:inline-block" height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&theme=onedark" width="300" >
+
+</div>
 
 <img width="720" src="imgs/line2.gif">
 
