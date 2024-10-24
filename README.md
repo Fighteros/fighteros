@@ -82,8 +82,9 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 1. Github Streaks <img  src="imgs/fire.png"  width="25" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark"  width="400"  />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&theme=onedark" width="400" >
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark"  width="330"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&theme=onedark" width="300" >
+
 
 <img width="720" src="imgs/line2.gif">
 
