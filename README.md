@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="mailto:am5419@fayoum.edu.eg">Ahmed Abd ElGhany</a>
-<img src="hi.gif" width="35" />
+<img src="imgs/hi.gif" width="35" />
 </h1>
 
 <dev align="center">
