@@ -2,11 +2,10 @@
 <img src="imgs/hi.gif" width="35" />
 </h1>
 
-<dev align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=F4A261&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+developer;Computer+Science+graduate;Proficient+in+debugging" alt="typing..."/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=F4A261&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+developer;Computer+Science+graduate;Proficient+in+debugging)](https://git.io/typing-svg)
-
-</dev>
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/realahmedabdelghany)
