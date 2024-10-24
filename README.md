@@ -1,15 +1,25 @@
-# Hi there 👋, I'm [Ahmed Abd ElGhany](mailto:am5419@fayoum.edu.eg)
+<h1 align="center">Hi there, I'm <a href="mailto:am5419@fayoum.edu.eg">Ahmed Abd ElGhany</a>
+<img src="hi.gif" width="35" />
+</h1>
+
+<dev align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=F4A261&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+developer;Computer+Science+graduate;Proficient+in+debugging)](https://git.io/typing-svg)
+
+</dev>
+<div align="center">
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/realahmedabdelghany)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realahmedabdelghany/)
 
+![visits](https://komarev.com/ghpvc/?username=Fighteros&style=logo&color=blue)
+
+</div>
 Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a **Backend Developer** with a solid foundation in **Mathematics** and **Computer Science**. I enjoy building efficient and scalable applications, tackling complex problems, and learning new technologies. Let's create something amazing together!
 
-![Coding GIF](https://github.com/Fighteros/fighteros/blob/newreadme/giphy.gif?raw=true)
+<img  src="imgs/line1.gif" width="720" />
 
-### Glad to see you here
-
-![visits](https://komarev.com/ghpvc/?username=Fighteros&style=for-the-badge&logo&color=blue)
+<img src="imgs/giphy.gif" width="400"  />
 
 - 🌱 I’m currently enhancing my skills in **JavaScript**, **Node.js**, and **RESTful APIs**.
 - 👯 I’m looking to collaborate on exciting backend and full-stack projects.
@@ -20,51 +30,62 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 ---
 
-### 🛠 Tech Stack:
+### <img src="imgs/cloc.png" width="30"> Tech Stack:
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=303030)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=4A5F5A)
+<p align="center"> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
+  </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="icons/expressjs.svg" alt="expressjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="icons/mongodb.svg" alt="mongodb" width="40" height="40"/>
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="icons/react.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="icons/angularjs.svg" alt="angular" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="icons/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="icons/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="icons/java-original.svg" alt="java" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="icons/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="icons/css3-original.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="icons/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="icons/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="icons/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-C21322?style=for-the-badge&logo=Angular&logoColor=white)
+</p>
 
-### 🧑🏻‍💻 Programming Languages:
+## <img src = "imgs/code.gif" width = "40px" height = "40px"> My GitHub Profile
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=yellow)
-![JAVA](https://img.shields.io/badge/-JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=yellow)
+1. Github Streaks <img  src="imgs/fire.png"  width="25" />
 
-![HTML](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark"  width="400"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&theme=onedark" width="400" >
 
-### ⚙️</i> Tools & Technologies:
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br/><br/>
-
-# My GitHub Profile
-
-1.🔥 Github Streaks
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark" />
-
-<br />
-
-<!-- 2.📅 Github stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&show_icons=true&hide_title=true&theme=onedark" />
-
-3.🏆 Github trophy
-
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" />
-<br/> -->
-
----
+<img width="720" src="imgs/line2.gif">
 
 <div align="center">
 Let's connect ❤️ and collaborate on exciting projects! 🏆
