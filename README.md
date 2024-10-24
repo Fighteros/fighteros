@@ -16,7 +16,7 @@
 </div>
 Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a **Backend Developer** with a solid foundation in **Mathematics** and **Computer Science**. I enjoy building efficient and scalable applications, tackling complex problems, and learning new technologies. Let's create something amazing together!
 
-<img  src="imgs/line1.gif" width="720" />
+<img  src="imgs/line1.gif" width="100%" />
 
 <img src="imgs/giphy.gif" width="400"  />
 
@@ -88,7 +88,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 </div>
 
-<img width="720" src="imgs/line2.gif">
+<img width="100%" src="imgs/line2.gif">
 
 <div align="center">
 Let's connect ❤️ and collaborate on exciting projects! 🏆
