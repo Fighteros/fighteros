@@ -14,6 +14,7 @@
 ![visits](https://komarev.com/ghpvc/?username=Fighteros&style=logo&color=blue)
 
 </div>
+
 Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a **Backend Developer** with a solid foundation in **Mathematics** and **Computer Science**. I enjoy building efficient and scalable applications, tackling complex problems, and learning new technologies. Let's create something amazing together!
 
 <img  src="imgs/line1.gif" width="100%" />
