@@ -25,40 +25,40 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 - 💬 Ask me about **REST APIs**, **Node.js**, **MongoDB**, **Express.js**, **Data Structures**, **Algorithms**.
 - 📫 How to reach me: [am5419@fayoum.edu.eg](mailto:am5419@fayoum.edu.eg)
 - ⚡ Fun fact: I'm a competitive learner, winning top student competitions multiple times.
-- 📝 Checkout my [CV](https://drive.google.com/file/d/18H5NDduJpPB7CFijgMMVkKDwk6e2ixQc/view?usp=drive_link)
+- 📝 Checkout my [CV](https://drive.google.com/file/d/1vq4a-th-gdj1vW_cU0LKYgxrI0Xc6shD/view?usp=sharing)
 
 ---
 
 ### <img src="imgs/cloc.png" width="30"> Tech Stack:
 
-<p align="center"> 
+<p align="center">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="icons/expressjs.svg" alt="expressjs" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="icons/mongodb.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="icons/react.svg" alt="react" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="icons/angularjs.svg" alt="angular" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="icons/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="icons/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="icons/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="icons/html5-original.svg" alt="html" width="40" height="40"/>
   </a>
@@ -88,7 +88,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 </div>
 
-<img width="100%" src="imgs/line2.gif">
+<img width="100" src="imgs/line2.gif">
 
 <div align="center">
 Let's connect ❤️ and collaborate on exciting projects! 🏆
