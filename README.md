@@ -89,7 +89,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 </div>
 
-<img width="100" src="imgs/line2.gif">
+<img width="100%" src="imgs/line2.gif">
 
 <div align="center">
 Let's connect ❤️ and collaborate on exciting projects! 🏆
