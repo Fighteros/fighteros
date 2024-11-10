@@ -84,7 +84,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 <div style="text-align: center">
 
-<img style="display:inline-block" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fighteros&theme=onedark"  width="330"  />
+<img style="display:inline-block" height="180em" src="https://streak-stats.demolab.com/?user=Fighteros&theme=dark&hide_border=true"  width="330"  />
 <img style="display:inline-block" height="180em" src="https://github-readme-stats.vercel.app/api?username=fighteros&theme=onedark" width="300" >
 
 </div>
