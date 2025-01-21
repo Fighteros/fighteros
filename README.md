@@ -21,12 +21,20 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 <img src="imgs/giphy.gif" width="400"  />
 
-- 🌱 I’m currently enhancing my skills in **JavaScript**, **Node.js**, and **RESTful APIs**.
+<!-- - 🌱 I’m currently enhancing my skills in **JavaScript**, **Node.js**, and **RESTful APIs**.
 - 👯 I’m looking to collaborate on exciting backend and full-stack projects.
 - 💬 Ask me about **REST APIs**, **Node.js**, **MongoDB**, **Express.js**, **Data Structures**, **Algorithms**.
 - 📫 How to reach me: [am5419@fayoum.edu.eg](mailto:am5419@fayoum.edu.eg)
 - ⚡ Fun fact: I'm a competitive learner, winning top student competitions multiple times.
-- 📝 Checkout my [CV](https://drive.google.com/file/d/1vq4a-th-gdj1vW_cU0LKYgxrI0Xc6shD/view?usp=sharing)
+- 📝 Checkout my [CV](https://drive.google.com/file/d/1vq4a-th-gdj1vW_cU0LKYgxrI0Xc6shD/view?usp=sharing) -->
+
+
+#### 🌱 I’m currently enhancing my skills in **JavaScript**, **Node.js**, and **RESTful APIs**.
+#### 👯 I’m looking to collaborate on exciting backend and full-stack projects.
+#### 💬 Ask me about **REST APIs**, **Node.js**, **MongoDB**, **Express.js**, **Data Structures**,
+#### 📫 How to reach me: [am5419@fayoum.edu.eg](mailto:am5419@fayoum.edu.eg)
+#### ⚡ Fun fact: I'm a competitive learner, winning top student competitions multiple times.
+#### 📝 Checkout my [CV](https://drive.google.com/file/d/1vq4a-th-gdj1vW_cU0LKYgxrI0Xc6shD/view?usp=sharing)
 
 ---
 
