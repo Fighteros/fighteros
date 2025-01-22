@@ -40,7 +40,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 ### <img src="imgs/cloc.png" width="30"> Tech Stack:
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -84,7 +84,9 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
     <img src="icons/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 
-</p>
+</p> -->
+
+<img src="StackTech.svg">
 
 ## <img src = "imgs/code.gif" width = "40px" height = "40px"> My GitHub Profile
 
