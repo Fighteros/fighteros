@@ -19,7 +19,9 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 <img  src="imgs/line1.gif" width="100%" />
 
-<img src="imgs/giphy.gif" width="400"  />
+<p align="center" >
+  <img src="imgs/giphy.gif" width="400" alt="....coding"  />
+</p>
 
 <!-- - 🌱 I’m currently enhancing my skills in **JavaScript**, **Node.js**, and **RESTful APIs**.
 - 👯 I’m looking to collaborate on exciting backend and full-stack projects.
