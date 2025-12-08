@@ -101,7 +101,7 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 <!--<img style="display:inline-block" height="180em" src="https://streak-stats.demolab.com/?user=Fighteros&theme=onedark&hide_border=true&border_radius=8&fire=DD2727&ring=7CFC00&currStreakLabel=FFD700" width="330" /> -->
 <img style="display:inline-block" height="180em" src="https://github-streaks-app.vercel.app/?user=Fighteros&theme=onedark&hide_border=true&border_radius=8&fire=DD2727&ring=7CFC00&currStreakLabel=FFD700" width="330" />
-<img style="display:inline-block" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fighteros&show_icons=true&theme=onedark&hide_border=true&border_radius=8&title_color=FFD700&text_color=FF4500&icon_color=7CFC00" width="310" >
+<img style="display:inline-block" height="180em" src="https://github-readme-stats-nu-gold-0u8pdzu8fv.vercel.app/api?username=Fighteros&show_icons=true&theme=onedark&hide_border=true&border_radius=8&title_color=FFD700&text_color=FF4500&icon_color=7CFC00" width="310" >
 
 </div>
 
