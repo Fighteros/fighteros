@@ -91,7 +91,9 @@ Welcome to my GitHub profile! and you've reached my Dev space on the Web I'm a *
 
 </p> -->
 
-<img src="StackTech.svg">
+### 🚀 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,docker,githubactions,nextjs,react,tailwind,linux,git)](https://skillicons.dev)
 
 ## <img src = "imgs/code.gif" width = "40px" height = "40px"> My GitHub Profile
 
